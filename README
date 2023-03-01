@@ -1,0 +1,17 @@
+cleaner — automatically remove unwanted files
+
+Usage: cleaner [options] [-v...] [ <directory> ...]
+
+The cleaner utility searches through the filesystem for "temporary files"
+which can be deleted safely.
+
+Options :
+  --debug        Show internal handling such as parsed arguments.
+  -v, --verbose  Show additional processing info.
+  -h, --help     Show this usage message.
+  --version      Show version and exit.
+
+Python implementation of Chris Newel's niftyclean (late 80's at CMUCS).
+Or, per the source clean-1.4, perhaps originally written by Jay Leafer.
+
+Report bugs to <philip@phd-solutions.com>.
