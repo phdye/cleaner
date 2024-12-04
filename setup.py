@@ -21,8 +21,8 @@ setup(
     version = _version,
     description = "Cleaner searches for temporary files which may be deleted, a la niftyclean",
     author = 'Philip H. Dye',
-    author_email = 'philip@phd-solutions.com',
-    # url = 'http://www.phd-solutions.com/philip-d-dye',
+    author_email = 'phdye@acm.org',
+    url = 'https://github.com/phdye/cleaner',
     long_description = _long_description,
     packages = ['cleaner'],
     entry_points = {

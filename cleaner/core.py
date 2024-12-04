@@ -18,7 +18,7 @@ Options :
 Python implementation of Chris Newel's niftyclean (late 80's at CMUCS).
 Or, per the source clean-1.4, perhaps originally written by Jay Leafer.
 
-Report bugs to <philip@phd-solutions.com>.
+Report any issues at https://github.com/phdye/cleaner/issues.
 """
 
 from __future__ import print_function

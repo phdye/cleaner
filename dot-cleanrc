@@ -1,0 +1,22 @@
+# ~/.cleanrc - configuration Chris Newel's niftyclean
+#
+core
+*~
+*.BAK
+*.CKP
+*.NEW
+\#*#
+dead.letter
+*.otl
+*.backup
+*.stackdump
+#
+# hidden files
+#
+.core
+.*~
+.*.BAK
+.*.CKP
+.*.NEW
+.*.raw-log
+#
